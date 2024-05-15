@@ -6,9 +6,11 @@
   font-family: poppins;
   src: url("fonts/Poppins-Regular.ttf");
 }
-html{
-  height: 2048px;
-  width: 1440px;
+body{
+  max-height: 2048px;
+  max-width: 1440px;
+  background-color: #1a1a1a;
+  color: #ffffff;
 }
 
 body{
@@ -23,11 +25,6 @@ body{
 
 .fontpop{
   font-family: poppins;
-}
-
-body{
-  background-color: #1a1a1a;
-  color: #ffffff;
 }
 
 /* Titel*/
@@ -143,6 +140,7 @@ h1{
   border-bottom: 1px solid #ffffff;
   margin-top: 48px;
   margin-bottom: 36px;
+  margin-right: 90px;
 }
 
 
