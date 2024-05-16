@@ -1,13 +1,18 @@
 # p1-html-css-cv
-Erstes Projekt HTML/Css
+---
 
-Anforderungen:
+## Erstes Projekt HTML/Css
+---
 
--HTML/CSS Grundlagen.
+### Anforderungen
 
-Optional:
+#### Required
+    - CV Auswählen
+    - Umsetzung in HTML und CSS
+    - auf Github Teilen
 
--Responsive
+#### Optional
+    - Seite Responsive gestallten
 
 
 In diesem ersten Projekt habe ich eine CV Vorlage mit HTML und CSS nachgebaut. Angefanen habe ich mit einem Flex Layout und konnte die Hauptaufgabe relativ schnell abschliessen. 
