@@ -161,9 +161,6 @@ border-radius: 40%;
                                     /* Haupttitel */
                           
 #titlemain{
-grid-column: 1 /-1;
-grid-row: 2;
-justify-self: center;
 text-align: center;
 }
                           
@@ -171,14 +168,10 @@ text-align: center;
                                     /* About */
                           
 #titleabout{
-grid-column: 1 /-1;
-grid-row: 3;
 text-align: center;
 }
                           
 #abouttext{
-grid-column: 1 /-1;
-grid-row: 4;
 text-align: center;
 margin-bottom: 5%;
 margin-left: 3%;
@@ -187,27 +180,19 @@ margin-right: 3%;
                           
                                     /* Erfahrungen */
 #titleexp{
-grid-column: 1 /-1;
-grid-row: 5;
 text-align: center;
 }
                           
 #dateapr{
-grid-column: 1 /-1;
-grid-row: 6;
 margin-bottom: 3%;
 text-align: center;
 }
                           
 #titlegoogle{
-grid-column: 1 /-1;
-grid-row: 7;
 text-align: center;
 }
                           
 #textgoogle{
-grid-column: 1 /-1;
-grid-row: 8;
 text-align: center;
 margin-bottom: 5%;
 margin-left: 3%;
@@ -215,21 +200,15 @@ margin-right: 3%;
 }
                           
 #datejun{
-grid-column: 1 /-1;
-grid-row: 9; 
 margin-bottom: 3%;
 text-align: center;
 }
                           
 #titlenetflix{
-grid-column: 1 /-1;
-grid-row: 10;
 text-align: center;
 }
                           
 #textnetflix{
-grid-column: 1 /-1;
-grid-row: 11;
 text-align: center;
 margin-bottom: 5%;
 margin-left: 3%;
@@ -237,21 +216,15 @@ margin-right: 3%;
 }
                           
 #dateapr2{
-grid-column: 1 /-1;
-grid-row: 12; 
 margin-bottom: 3%;
 text-align: center;
 } 
                           
 #titleeinrodge{
-grid-column: 1 /-1;
-grid-row: 13;
 text-align: center;
 }
                           
 #texteinrodge{
-grid-column: 1 /-1;
-grid-row: 14;
 text-align: center;
 margin-bottom: 5%;
 margin-left: 3%;
@@ -461,8 +434,6 @@ margin-bottom: 213.75px;
 
                                      /* Haupttitel */
 #titlemain{
-grid-column: 2;
-grid-row: 1;
 text-align: start;
 margin-top: 90.08px;
 }
@@ -471,8 +442,6 @@ margin-top: 90.08px;
 
 
 #titleabout{
-grid-column: 2 / 2;
-grid-row: 1;
 text-align: start;
 margin-top: 76.61px;
 }
