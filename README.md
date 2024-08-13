@@ -1,5 +1,9 @@
 
-[![Video Title](https://img.youtube.com/vi/G1hKzCkywM8/0.jpg)](https://www.youtube.com/watch?v=G1hKzCkywM8)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=G1hKzCkywM8">
+    <img src="https://img.youtube.com/vi/G1hKzCkywM8/0.jpg" alt="Test Video">
+  </a>
+</div>
 
 
 # p1-html-css-cv
